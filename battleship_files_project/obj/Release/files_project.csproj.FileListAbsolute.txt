@@ -1,0 +1,10 @@
+C:\Users\jesse\Documents\files_project\bin\Release\files_project.exe.config
+C:\Users\jesse\Documents\files_project\bin\Release\files_project.exe
+C:\Users\jesse\Documents\files_project\bin\Release\files_project.pdb
+C:\Users\jesse\Documents\files_project\obj\Release\files_project.csprojAssemblyReference.cache
+C:\Users\jesse\Documents\files_project\obj\Release\files_project.Form1.resources
+C:\Users\jesse\Documents\files_project\obj\Release\files_project.Properties.Resources.resources
+C:\Users\jesse\Documents\files_project\obj\Release\files_project.csproj.GenerateResource.cache
+C:\Users\jesse\Documents\files_project\obj\Release\files_project.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Documents\files_project\obj\Release\files_project.exe
+C:\Users\jesse\Documents\files_project\obj\Release\files_project.pdb
