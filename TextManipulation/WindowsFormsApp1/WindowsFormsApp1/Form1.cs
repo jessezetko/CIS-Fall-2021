@@ -59,7 +59,7 @@ namespace WindowsFormsApp1
             }
             catch
             {
-                MessageBox.Show("Code failure :(", "Try harder next time, nerd");
+                MessageBox.Show("Code failure");
             }
         }
     }
